@@ -1,46 +1,17 @@
 *{
-    background-color: beige;
-    padding: 0;
-    margin: 0;
-}
-.header {
-    width: 100%;
     color: brown;
-    background-color: beige;
-    padding: 15px 75px;
-    display: flex;
-    padding: 0;
+    background-color: bisque;
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    justify-content: center;
 }
 
-
-
-.header nav a{
+nav{
     position: relative;
-    font-weight: 500;
-    font-size: 20px;
-    text-decoration: none;
-    color: brown;
-    padding: 6px 20px;
-
-}
-
-.ah{
-    color: brown;
-    text-align: center;
+    width: 524px;
+    height: 50px;
+    background: brown;
+    border-radius: 8px;
+    display: flex;
     
-}
-
-.ap1{
-    width: 500px;
-    color: brown;
-    
-
-}
-
-.ol1{
-    color: brown;
-
 }
