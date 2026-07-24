@@ -72,7 +72,10 @@ html{
     scroll-behavior: smooth;
 }
 
-
+img{
+    display: flex;
+    margin: auto;
+}
 
     
 
